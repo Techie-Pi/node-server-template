@@ -1,0 +1,23 @@
+{
+  "name": "package-name",
+  "version": "1.0.0",
+  "description": "Package description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxxxxx/xxxxxx.git"
+  },
+  "keywords": [],
+  "author": "xxxxxx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxxxxx/xxxxxx/issues"
+  },
+  "homepage": "https://github.com/xxxxxx/xxxxxx#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
